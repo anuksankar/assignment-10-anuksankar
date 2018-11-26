@@ -78,7 +78,7 @@ Run it by executing the docker-compose exec mids command below.
 docker-compose exec mids env FLASK_APP=/w205/flask-with-kafka-and-spark/game_api_with_json_events.py flask run --host 0.0.0.0
 ```
 Displays
-``
+```
  * Serving Flask app "game_api_with_json_events"
  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ```
