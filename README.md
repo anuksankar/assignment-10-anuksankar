@@ -89,7 +89,7 @@ docker-compose exec mids curl http://localhost:5000/
 Displays
 ```
 This is the default response!
-``
+```
 Test for "purchase_a_sword"
 ```
 docker-compose exec mids curl http://localhost:5000/purchase_a_sword
